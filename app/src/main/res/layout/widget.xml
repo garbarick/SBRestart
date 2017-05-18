@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:minHeight="50dp"
+        android:minWidth="50dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp">
+    <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/img"
+            android:focusableInTouchMode="false"
+            android:layout_gravity="center"/>
+    <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/app"
+            android:src="@drawable/app"
+            android:layout_gravity="left|top"/>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SBRestart</string>
+    <string name="create_widget">Create Widget</string>
+    <string name="edit_widget">Edit Widget</string>
+    <string name="app_description">Start or restart selected application by widget</string>
+</resources>
